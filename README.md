@@ -21,10 +21,10 @@
 | 프로젝트 | 소개 | 스택 |
 |---|---|---|
 | [TAD스마트견적](https://github.com/98parks-create/tad) | 광고물 견적 자동화 SaaS. 도메인 구입·배포·운영까지 | React, Firebase, Claude API |
-| [딱맞춤](https://github.com/98parks-create/ddakmatcum) | 청년 맞춤형 주거/금융/복지 정보 서비스 (팀) | Django, 공공데이터 API, Gemini |
 | [태평양애드 웹사이트](https://github.com/98parks-create/taepyeongyang) | 광고물 제조기업 웹사이트 + AI 챗봇 (팀) | JS, Firebase, GSAP, Gemini |
-| [여밈](https://github.com/98parks-create/yeomim) | 상속·복지 정보 AI 안내 서비스. 경진대회 출품 (팀장/PM) | Django, Gemini, Kakao Map |
 | [킥오프](https://github.com/98parks-create/kickoff) | 풋살 모임 매칭 서비스. 첫 TypeScript 도입 | React, TypeScript, Supabase |
+| [WhatEat](https://github.com/98parks-create/WhatEat) | 위치 기반 음식점 추천 서비스 | React, Kakao/Naver API, Supabase |
+| [디어레스트](https://github.com/98parks-create/dearest) | 영상 편지 제작 서비스. 결제 연동 | React, FFmpeg.wasm, Toss Payments |
 
 ## Contact
 
